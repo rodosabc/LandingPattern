@@ -1,0 +1,2 @@
+class InvitationsMailer < ApplicationMailer
+end

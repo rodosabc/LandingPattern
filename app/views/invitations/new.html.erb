@@ -1,0 +1,7 @@
+<%= bootstrap_form_for(@invitation) do |f| %>
+    <%= f.text_field :first_name %>
+    <%= f.text_field :last_name %>
+    <%= f.email_field :email %>
+    <%= f.phone_field :phone %>
+    <%= f.submit "Log In" %>
+<% end %>

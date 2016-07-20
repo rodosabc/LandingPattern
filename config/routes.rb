@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  resource :invitations
+
+
   get 'home/index'
 
   root :to => "home#index"
