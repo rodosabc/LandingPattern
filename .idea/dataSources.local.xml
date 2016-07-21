@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - postgres@localhost" uuid="a54703ca-0742-41b6-8f11-5574ebbf1acb">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>rodosabc</user-name>
+    </data-source>
+    <data-source name="Rails LandingPattern: development" uuid="74dc58d6-6a68-47af-94e4-863d27ec0246">
+      <first-sync>true</first-sync>
+      <user-password>dfd9dfdedfcbdfd8dfc3dfcddfd8dfcbdfcedfdcdfcfdfcddfcbdfd9</user-password>
+    </data-source>
+    <data-source name="Rails LandingPattern: test" uuid="ca545853-d078-415c-968c-785fc2198521">
+      <user-password>dfd9dfdedfcbdfd8dfc3dfcddfd8dfcbdfcedfdcdfcfdfcddfcbdfd9</user-password>
+    </data-source>
+    <data-source name="Rails LandingPattern: production" uuid="c601f4aa-26a4-47f1-8280-29eabcb353e3">
+      <user-password>dfd9dfdedfcbdfd8dfc3dfcddfd8dfcbdfcedfdcdfcfdfcddfcbdfd9</user-password>
+    </data-source>
+  </component>
+</project>
